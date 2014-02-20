@@ -1,5 +1,5 @@
-Welcome to Xperia SlimRoms
-==========================
+Welcome to SlimRoms for Xperia Novathor
+=======================================
 
 
 Building info
