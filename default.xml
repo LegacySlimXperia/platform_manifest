@@ -464,7 +464,7 @@
   <project path="external/qrngd" name="CyanogenMod/android_external_qrngd" remote="github" revision="cm-11.0" />
   
   <!-- arm eabi 4.4.3 toolchain -->
-  <project path="prebuilt/linux-x86/toolchain" name="LegacySlimXperia/arm-eabi-4.4.3" remote="github" revision="master" />
+  <project path="prebuilt/linux-x86/toolchain/arm-eabi-4.4.3" name="LegacySlimXperia/arm-eabi-4.4.3" remote="github" revision="master" />
   
   
   <!--Xperia Novathor-->
